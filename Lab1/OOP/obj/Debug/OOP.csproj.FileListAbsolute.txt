@@ -1,0 +1,11 @@
+C:\Users\Админ\Desktop\OOP\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\Админ\Desktop\OOP\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\Админ\Desktop\OOP\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\Админ\Desktop\OOP\OOP\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\OOP\OOP\OOP\obj\Debug\OOP.CRUD.resources
+C:\Users\Админ\Desktop\OOP\OOP\OOP\obj\Debug\OOP.MainForm.resources
+C:\Users\Админ\Desktop\OOP\OOP\OOP\obj\Debug\OOP.Properties.Resources.resources
+C:\Users\Админ\Desktop\OOP\OOP\OOP\obj\Debug\OOP.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\OOP\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\OOP\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\Админ\Desktop\OOP\OOP\OOP\obj\Debug\OOP.pdb
